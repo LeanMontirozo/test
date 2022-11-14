@@ -36,3 +36,16 @@ git config --global user.name
 git config --global user.email
 LeanMontirozo/newTest
 cmd Desktop/
+cd Desktop/
+cd LeanMontirozo/testi
+cd Desktop/
+git init
+git add
+git add .
+git commit -m
+git commit -m "First commit"
+git status
+git remote add origin https://github.com/LeanMontirozo/test.git
+git push origin master
+git config --global user.name 
+git config --global user.email
